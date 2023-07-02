@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartholomew 
-- 👀 I’m interested in web development roles
-- 🌱 I’m currently learning Javascript for frontend development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Data Analysis roles
+- 🌱 I’m currently learning Data analysis using ( Excel, power Bi, SQL and Python)
+- 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me via batolisis1988@gmail.com
 
 <!---
